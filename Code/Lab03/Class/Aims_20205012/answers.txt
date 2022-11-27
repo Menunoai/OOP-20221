@@ -1,0 +1,9 @@
+1. Question: Is JAVA a Pass by Value or a Pass by Reference 
+	programming language?
+============== Trả lời ==============
+	Pass by value
+
+2. After the call of swap(jungleDVD, cinderellaDVD) why does the title of these two 
+objects still remain?
+============== Trả lời ==============
+	
